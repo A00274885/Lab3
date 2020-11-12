@@ -1,0 +1,13 @@
+Print out the words in the file so that words longer
+than 3 chars will have the first and last letter stay the same
+but the middle letters jumbled
+
+while (the file has words
+{
+    if (the word is longer than 3 letters)
+    {
+    pick the char at the start of the word
+    pick the char at the end of the word
+    using math.random scramble the words
+    }
+}
